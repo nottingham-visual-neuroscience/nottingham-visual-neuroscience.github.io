@@ -1,0 +1,27 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: About
+  href: /about/
+- text: Team
+  href: /team/
+- text: Blog
+  href: /blog/
+- text: Projects
+  menu: # Dropdown menu (one level deep only)
+  - text: Amblyopia
+    href: /docs/amblyopia/
+  - text: Faces
+    href: /docs/Faces/
+  - text: Motion
+    href: /docs/motion/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Psychophysics
+    href: /docs/psychophysics/
+  - text: fMRI
+    href: /docs/fMRI/
+  
+- text: GitHub
+  href: https://github.com/nottingham-visual-neuroscience/
+  new_window: true

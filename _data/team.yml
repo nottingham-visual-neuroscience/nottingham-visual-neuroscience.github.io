@@ -1,0 +1,52 @@
+# Project team members listed below will appear on the /team page
+
+- name: Harriet Allen
+  role: Professor # Will appear next to name
+  image: assets/ # Can be external link
+  description: > # Can be Markdown
+  orcid: 0000-0000-0000-0000
+  email: name@example.com
+
+- name: Matias Ison
+  role: Associate Professor
+  description: >
+
+- name: Alan Johnston
+  role: Professor
+  image: assets/
+  description: >
+
+- name: Paul McGraw
+  role: Professor
+  image: assets/
+  description: >
+
+- name: Jon Peirce
+  role: Professor
+  image: assets/
+  description: >
+
+- name: Neil Roach
+  role: Professor
+  image: assets/
+  description: >
+
+- name: Denis Schluppeck
+  role: Associate Professor
+  image: assets/
+  description: >
+
+- name: Chris Scholes
+  role: Assisstant Professor
+  image: assets/
+  description: >
+
+- name: Domenica Veniero
+  role: Assisstant Professor
+  image: assets/
+  description: >
+
+- name: Elisa Zamboni
+  role: Assisstant Professor
+  image: assets/
+  description: >
