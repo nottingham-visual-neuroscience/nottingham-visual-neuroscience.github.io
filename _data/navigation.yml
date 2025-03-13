@@ -11,16 +11,16 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Amblyopia
-    href: /docs/amblyopia/
+    href: /amblyopia/
   - text: Faces
-    href: /docs/Faces/
+    href: /Faces/
   - text: Motion
-    href: /docs/motion/
+    href: /motion/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Psychophysics
-    href: /docs/psychophysics/
+    href: /psychophysics/
   - text: fMRI
-    href: /docs/fMRI/
+    href: /fMRI/
   
 - text: GitHub
   href: https://github.com/nottingham-visual-neuroscience/
