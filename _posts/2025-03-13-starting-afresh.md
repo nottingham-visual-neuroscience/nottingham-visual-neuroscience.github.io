@@ -2,7 +2,7 @@
 title: Starting afresh. Our website rebooted
 description: 
 background:
-  img: 
+  img: /assets/images/7221web.jpg
   by: 
   href: 
 author: Denis Schluppeck

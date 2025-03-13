@@ -2,51 +2,52 @@
 
 - name: Harriet Allen
   role: Professor # Will appear next to name
-  image: assets/ # Can be external link
+  image: assets/haallen.png # Can be external link
   description: > # Can be Markdown
   orcid: 0000-0000-0000-0000
   email: name@example.com
 
 - name: Matias Ison
   role: Associate Professor
+  image: assets/matiasison.png # Can be external link
   description: >
 
 - name: Alan Johnston
   role: Professor
-  image: assets/
+  image: assets/alanjohnston.png
   description: >
 
 - name: Paul McGraw
   role: Professor
-  image: assets/
+  image: assets/paulmcgraw.png
   description: >
 
 - name: Jon Peirce
   role: Professor
-  image: assets/
+  image: assets/jonathanpeirce.png
   description: >
 
 - name: Neil Roach
   role: Professor
-  image: assets/
+  image: assets/neilroach.png
   description: >
 
 - name: Denis Schluppeck
   role: Associate Professor
-  image: assets/
+  image: assets/denis-schluppeck-96x120.png
   description: >
 
 - name: Chris Scholes
   role: Assisstant Professor
-  image: assets/
+  image: assets/ChrisScholes-96x120.jpg
   description: >
 
 - name: Domenica Veniero
   role: Assisstant Professor
-  image: assets/
+  image: assets/DomenicaVeniero96x121.jpg
   description: >
 
 - name: Elisa Zamboni
   role: Assisstant Professor
-  image: assets/
+  image: assets/elisazamboni1.jpg
   description: >
